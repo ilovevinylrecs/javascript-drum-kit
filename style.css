@@ -56,9 +56,8 @@ kbd {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    align-items: space-between;
+    align-items: center;
     align-content: center;
-    margin: 30rem 8rem 20rem 8rem;
   }
 
   .sound {
